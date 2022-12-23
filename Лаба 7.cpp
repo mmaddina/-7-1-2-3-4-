@@ -22,7 +22,6 @@ int main()
 	if (index == 0) cout << "Символа а не найдено" << endl;
 }
 */
-
 //Задание 2
 /*
 #include <iostream>
